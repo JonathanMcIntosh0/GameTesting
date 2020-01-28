@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.StackPane?>
+
+<!--
+<GridPane fx:controller="main.Controller"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
+    <padding>
+        <Insets top="50" right="50" bottom="25" left="50"></Insets>
+    </padding>
+    <gridLinesVisible>true</gridLinesVisible>
+
+    <Text text="Testing"
+          GridPane.columnIndex="0" GridPane.rowIndex="0"/>
+</GridPane>-->
+
+
+<?import javafx.scene.shape.Rectangle?>
+<StackPane fx:controller="main.Controller"
+           xmlns:fx="http://javafx.com/fxml" style="-fx-background-color: grey;">
+
+    <!--OBSTACLES-->
+    <Rectangle
+
+</StackPane>
